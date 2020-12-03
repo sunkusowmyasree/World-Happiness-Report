@@ -17,9 +17,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in Analysing World Happiness Report and understand few findings from the Dataset:
 
-1.What are the Top and Least Happiest Countries along with the Regions?
+1.Which Region Has Highest Happiest Countries?
 
-2.Which Features affect the Happiness Score the most?
+2.Will Trust in Government Show Great Impact on Happiness Score?
 
 3.Trend of All the Features for Different Countries Over Time
 
